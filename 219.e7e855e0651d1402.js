@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknews_angular=self.webpackChunknews_angular||[]).push([[219],{7219:(g,o,n)=>{n.r(o),n.d(o,{BlogsModule:()=>a});var s=n(9808),u=n(4893);let a=(()=>{class l{}return l.\u0275fac=function(d){return new(d||l)},l.\u0275mod=u.oAB({type:l}),l.\u0275inj=u.cJS({imports:[[s.ez]]}),l})()}}]);
